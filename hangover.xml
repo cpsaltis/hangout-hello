@@ -7,8 +7,8 @@
     <Content type="html">
         <![CDATA[
             <script src="//hangoutsapi.appspot.com/static/hangout.js"></script>
-            <script type="text/javascript" src="//static/hangover.js"></script>
-            <link type="text/css" rel="stylesheet" href="//static/main.css" />
+            <script type="text/javascript" src="static/hangover.js"></script>
+            <link type="text/css" rel="stylesheet" href="static/main.css" />
             <p>hello!</p>    
         ]]>
     </Content>
