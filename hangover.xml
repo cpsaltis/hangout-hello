@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="Your App Name">
+        <Require feature="rpc"/>
+        <Require feature="views"/>
+    </ModulePrefs>
+    <Content type="html">
+        <![CDATA[
+            <script src="//hangoutsapi.appspot.com/static/hangout.js"></script>
+            <script type="text/javascript" src="/static/hangover.js"></script>
+            <link type="text/css" rel="stylesheet" href="/static/talkinghead/main.css" />
+            <p>hello!</p>    
+        ]]>
+    </Content>
+</Module>
