@@ -7,9 +7,10 @@
     <Content type="html">
         <![CDATA[
             <script src="//hangoutsapi.appspot.com/static/hangout.js"></script>
-            <script type="text/javascript" src="http://147.102.107.147/hangout-test/static/hangover.js"></script>
-            <link type="text/css" rel="stylesheet" href="http://147.102.107.147/hangout-test//static/main.css" />
-            <p>hello!</p>    
+            <!-- replace the following hrefs with public URLs to your code -->
+            <script type="text/javascript" src="/hangout-hello/static/helloworld.js"></script>
+            <link type="text/css" rel="stylesheet" href="/hangout-hello/static/main.css" />
+            <p>Hello world!</p>    
         ]]>
     </Content>
 </Module>
