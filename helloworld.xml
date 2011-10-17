@@ -9,7 +9,7 @@
             <script src="//hangoutsapi.appspot.com/static/hangout.js"></script>
             <!-- replace the following hrefs with public URLs to your code -->
             <script type="text/javascript" src="/hangout-hello/static/helloworld.js"></script>
-            <link type="text/css" rel="stylesheet" href="/hangout-hello/static/main.css" />
+            <link type="text/css" rel="stylesheet" href="/hangout-hello/static/helloworld.css" />
             <p>Hello world!</p>    
         ]]>
     </Content>
